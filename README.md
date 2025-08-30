@@ -3,3 +3,4 @@ sebelum mendownload file file php, html, dan css anda perlu membuat database ber
 awal file yang harus dimasuki adalah Landing page. Jika anda sudah menbuat databse dan table nya anda dapat memasuki landing page dengan localhost/EDUVERSE/LandingPage/tesmain.php
 jika anda ingin membuat akun baru anda hanya perlu mengclick tombol register. Jika anda tidak ingin membuat akun baru anda dapat menggunakan akun-akun yang sudah ada di dalam table yang sudah anda buat
 jikalau saat anda mendownload repository ini, jika nama foldernya menjadi EDUVERSE-main maka anda hanya merubah nama folder tersebut menjadi EDUVERSE/mengubah linknya menjadi localhost/EDUVERSE-main/LandingPage/tesmain.php
+di dalam fitur soal kami tidak dapat menyelesaikan masalah yang terkait jawaban soal tidak mau tersimpan, contohnya jika anda memasukkan jawaban no 1 a lalu anda memasuki no 2 lalu anda kembali lagi ke no 1 melalui no soal maka jawaban tersebut tidak tersimpan
