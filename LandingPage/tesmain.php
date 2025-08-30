@@ -24,7 +24,6 @@
                 <a href="/EDUVERSE/home/login.php"><button>Login</button></a>
                 <a href="/EDUVERSE/home/registerasi.php"><button>Register</button></a>
             </div>
-            <img src="assets landing/Baixar_um_grupo_de_pessoas_compartilhando_histórias_juntas_gratuitamente__1_-removebg-preview.png" alt="" class="main-img">
         </div>
 
         <div class="layanan">
@@ -72,4 +71,5 @@
         </div>
     </div>
 </body>
+
 </html>
