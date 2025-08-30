@@ -30,16 +30,16 @@
             <h1>Layanan Kami</h1>
             <div class="cards">
                 <div class="card">
-                    <h2>BIMBEL ONLINE TERBAIK</h2>
-                    <p>Lorem ipsum dolor sit amet, tortor non gravida. Sed vulputate nibh diam, non maximus eros facilisis sed. Donec et ultrices felis. Integer a auctor erat.</p>
+                    <h2>Materi Lengkap & Terstruktur</h2>
+                    <p>Menyediakan materi matematika mulai dari dasar hingga tingkat lanjut (aljabar, logaritma, eksponen, fungsi, dan lainnya) yang disusun secara runtut sehingga mudah dipahami.</p>
                 </div>
                 <div class="card">
-                    <h2>2000+ LULUSAN MASUK PTN</h2>
-                    <p>Lorem ipsum dolor sit amet, tortor non gravida. Sed vulputate nibh diam, non maximus eros facilisis sed. Donec et ultrices felis. Integer a auctor erat.</p>
+                    <h2>Pembelajaran Interaktif</h2>
+                    <p>Dilengkapi dengan contoh soal, pembahasan langkah demi langkah, serta latihan interaktif yang membantu pengguna belajar secara aktif, bukan hanya membaca.</p>
                 </div>
                 <div class="card">
-                    <h2>GURUNYA GACOR</h2>
-                    <p>Lorem ipsum dolor sit amet, tortor non gravida. Sed vulputate nibh diam, non maximus eros facilisis sed. Donec et ultrices felis. Integer a auctor erat.</p>
+                    <h2>Akses Mudah & Gratis</h2>
+                    <p>Dapat diakses kapan saja dan di mana saja tanpa biaya, sehingga pelajar bisa belajar matematika dengan fleksibel sesuai kebutuhan mereka.</p>
                 </div>
             </div>
         </div>
@@ -52,7 +52,7 @@
                 </div>
                 <div>
                     <h2>Dafiand Alfadel</h2> <div></div>
-                    <p>Lorem ipsum dolor sit amet, tortor non gravida. Sed vulputate nibh diam, non maximus eros facilisis sed. Donec et ultrices felis. Integer a auctor erat.</p>
+                    <p>Website ini benar-benar membantu saya dalam memahami pelajaran matematika, terutama materi yang sulit seperti logaritma dan eksponen. Penjelasan dalam bentuk video sangat jelas karena tidak hanya menyajikan teori, tapi juga langkah-langkah penyelesaian dengan contoh yang mudah diikuti. Yang paling saya suka adalah latihan soal interaktifnya. Setelah menjawab soal, saya langsung tahu mana yang salah dan ada penjelasan bagaimana cara yang benar. Jadi, saya bisa belajar dari kesalahan saya sendiri.</p>
                 </div>
             </div>
         </div>
@@ -73,3 +73,4 @@
 </body>
 
 </html>
+
